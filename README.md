@@ -1,2 +1,2 @@
 # Simple-SDR
-Simple SDR Is a basic Software defined receiver.
+Simple SDR is a basic Software Defined Receiver.
