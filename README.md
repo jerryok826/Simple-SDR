@@ -1,6 +1,6 @@
 # Simple-SDR
 Simple SDR is a basic Software Defined Receiver.
-![Robot_Front](https://github.com/jerryok826/Simple-SDR/blob/main/Pictures/lps_bat_lps_load.jpeg)
+![Robot_Front](https://github.com/jerryok826/Simple-SDR/blob/main/Pictures/simple_sdr_caption.jpeg
 
 ![Robot_Front](https://github.com/jerryok826/Lab-Power-Supply/blob/main/Pictures/lab_power_supply_2.jpeg)
 
