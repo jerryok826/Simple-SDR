@@ -22,3 +22,6 @@ https://github.com/ukagit/sdr_kiss
 https://github.com/do7jbh/SSR-2
 
 https://github.com/DD4WH/Teensy-ConvolutionSDR.
+
+https://github.com/Dizzerin/Software-Defined-Radio
+
