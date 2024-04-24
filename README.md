@@ -13,7 +13,7 @@ The SDR board has the basic components of a 20 meter Ham band SDR receiver. The 
 6. SI5351 programmable clock
 7. I&Q Audio amps
 
-Other SDR project of interest:
+Other SDR projects of interest:
 
 https://community.element14.com/challenges-projects/project14/radiocontrol/b/blog/posts/software-defined-radio-sdr-experiment-board
 
