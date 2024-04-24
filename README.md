@@ -9,7 +9,7 @@ The SDR board has the basic components of a 20 meter Ham band SDR receiver. The 
 2. A 20 meter Ham band BPF.
 3. Preamp.
 4. A Tayloe quadrature detector
-5. Four phase clock generator.
+5. I and Q clock generator.
 6. SI5351 programmable clock
 7. I&Q Audio amps
 
