@@ -5,9 +5,9 @@ Simple-SDR is a basic Software Defined Receiver for experimentation
 
 ## Project Description
 The SDR board has the basic components of a 20 meter Ham band SDR receiver. The sections are:
-1. A HPF to reject Broadcast band signals.
+1. A 1.5MHz HPF to reject Broadcast band signals.
 2. A 20 meter Ham band BPF.
-3. Preamp.
+3. RF Preamp.
 4. A Tayloe quadrature detector
 5. I and Q clock generator.
 6. SI5351 programmable clock
